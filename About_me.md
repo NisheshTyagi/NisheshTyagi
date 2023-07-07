@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NisheshTyagi
-- 👀 I’m interested in Python and Unity game development
-- 🌱 I’m currently learning python and c#
+- 👀 I’m interested in Python,Reverse Engineering,Unity Game development and Desktop applications developoment with Java.
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
-- 📫 My email is eyetrack9182@gmail.com
 
 <!---
 NisheshTyagi/NisheshTyagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
