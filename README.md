@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NisheshTyagi
-- 👀 I’m interested in Python,Reverse Engineering,Unity Game development and Desktop applications developoment with Java.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Low-level programming,Reverse Engineering,Unity Game development.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
